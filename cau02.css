@@ -1,0 +1,23 @@
+.abc {
+    display: flex;
+}
+.abc p{
+    margin-right: 20px;
+    padding: 30px;
+    border-radius: 50px;
+}
+.abc{
+    p:first-child{
+        background-color: blue;
+        color: white;
+    }
+    p:last-child{
+        background-color: #7BA001;
+    }
+}
+.abc p:nth-child(2):hover{
+   background-color: blue;
+}
+.abc p:last-child:hover{
+    background-color: #a2bd4a;
+}

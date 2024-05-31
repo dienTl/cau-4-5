@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+}.box1 {
+    background-color: #f9f9ff;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    text-align: center;
+    font-family: "be vietnam pro" , sans-serif;
+}
+.tille{
+    font-size: 48px;
+    font-weight: 700;
+    color: #192335;
+}
+.box{
+    display: block;
+}
+.ass{
+    display: inline-block;
+    margin-left: 15px;
+    margin-right: 15px;
+    text-decoration: none;
+}
+.ass img{
+    width: 260px;
+    height: 150px;
+    border-radius: 12px;
+    object-fit: cover;
+}
+.ass h3:hover{
+    color: black;
+}
+
+

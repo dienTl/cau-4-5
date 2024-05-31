@@ -1,0 +1,32 @@
+.abc{
+    background-color: #F9F9FF;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    text-align: center;
+    font-family: "Be Vietnam Pro", sans-serif;
+}.abc img{
+    clip-path: circle();
+    color: blue;
+}
+.box img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #192335;
+}
+.box {
+    display: inline-block;
+    margin-left: 30px;
+    margin-right: 30px;
+    color: #192335;
+    text-decoration: none;
+}
+.box:hover{
+    color: blue;
+    border-color: blue;
+}
+
+.box:hover img{
+    border-color: blue;
+}

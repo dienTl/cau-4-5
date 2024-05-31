@@ -1,0 +1,14 @@
+.abc th{
+    background-color: yellow;
+    padding: 10px 20px;
+    font : 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.abc td{
+    padding: 10px 20px ;
+    font: 18 px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.abc tb,td{
+    border-right: 1px solid;
+}

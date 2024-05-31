@@ -1,0 +1,16 @@
+.abc {
+    display: flex;
+    background-color: #F6F6F6;
+    border: 0;
+    border-radius: 5px;
+    width: 45px;
+    height: 45px;
+    color: #6B7385;
+    font-size: 18px;
+}
+.abc button:nth-child(4){
+    background-color: rgb(111, 111, 248);
+}
+.abc button:hover{
+    background-color: blue;
+}
